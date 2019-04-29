@@ -1,0 +1,4 @@
+FROM: "IT Security" <it@derwemodn.it>
+SUBJ: 3 Steps to not Getting Phished
+TITL: Be the Fisherman, not the Phished!
+BODY: <br>Hey Employee!!<br>Email Phishing is dangerous! We have found a tool that test how susceptable you are to phishing!  Check it out at: <a href=<MYLINK>> Can I be Phished? </a><br><br>Stay secure!

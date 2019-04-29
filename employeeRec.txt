@@ -1,0 +1,28 @@
+FROM: "Human Resources" <hr@company.com>
+SUBJ: Congratulations! You have been an awesome employee!
+TITL: You have been named employee of the month!
+BODY: <table>
+	<tr>
+		<td align="center">
+			<img src="https://sgbonline.com/wp-content/uploads/2017/07/be_an_outsider_image.jpg" height=250 width=650>
+		</td>
+	</tr>
+	</tr>
+		<td align="center">
+      			<br>
+      			<br>
+      			<br> You have been selected as employee of the month, <a href=<MYLINK>> Congrats! </a>
+						<br>
+      			<br> For more information, or to accept your reward, <a href=<MYLINK>> Click Here </a>
+      			<br>
+      			<br>
+      			<br>
+      		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<br> Congratulations,
+      			<br> Human Resources
+      		</td>
+	</tr>
+</table>

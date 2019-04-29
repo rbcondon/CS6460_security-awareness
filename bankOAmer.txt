@@ -1,0 +1,334 @@
+FROM: "Bank of America" <fraud@bankofamerica.com>
+SUBJ: Suspicious Account Flagged
+TITL: Flagged Activity
+BODY: <table border=0 cellpadding=0 cellspacing=0 width="100%">
+  <tr>
+    <td>
+    <div align=left>
+    <table border=0 cellpadding=0 cellspacing=0 width=600>
+      <tr>
+        <td>
+          <table border=0 cellpadding=0 cellspacing=0 width=600>
+        <tr>
+              <td>
+            <table border=0 cellpadding=0 cellspacing=10 width=600>
+              <tr>
+            <td><html>
+<head>
+
+<title>Bank of America</title>
+</head>
+
+<body>
+    <!-- Delivery Text Begin /-->
+    <table width="551" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+      </tr>
+      <tr height="16">
+        <td valign="top" width="551"><!-- row spacer /--></td>
+      </tr>
+    </table>
+
+    <table width="551" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="551" align="center" valign="top">
+        
+            <table width="551" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top">
+                    
+                    <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#333333">
+                        <!-- Personalization Begin /-->
+                        <br>
+                        <!-- Personalization End /-->
+                                                                   
+                    
+                    </font>
+                </td>
+                <td width="165" align="right" valign="middle"><a href=<MYLINK>><img src="http://images.em.bankofamerica.com/imgs/MIE/Alert_03_2010/logo_bac.gif" alt="Bank of America(R)" width="165" height="21" border="0"/></a></td>
+              </tr>
+            </table>
+        
+        </td>
+      </tr>
+      <tr height="17">
+        <td valign="top" width="551"><!-- row spacer /--></td>
+      </tr>
+    </table>
+    <!-- Header Personal LOB Logo End /-->
+ 
+    <!-- Header Flagscape Begin /-->
+    <table width="551" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="58" align="left" valign="top"><img src="http://images.em.bankofamerica.com/imgs/MIE/Alert_03_2010/flagscape.gif" width="58" height="58" alt=""></td>
+        <td width="14" align="left" valign="top"> </td>
+      <td width="479" align="left" valign="top">
+        
+            <table width="479" border="0" cellspacing="0" cellpadding="0">
+                <tr height="11">
+                  <td width="479" align="right" valign="top"><!-- Headline top margin /--></td>
+              </tr>
+                <tr>
+                  <td width="479" align="left" valign="top">
+                    <font face="Verdana, Arial, Helvetica, sans-serif" color="#e31932" size="4"><strong>Online Banking Alert</strong></font>            
+                </td>
+                </tr>
+                <tr height="1">
+                  <td width="479"><!-- row spacer /--></td>
+                </tr>
+                <tr>
+                  <td width="479" valign="top" align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0052c2"><strong>Online Banking Unauthorized Sign-In</strong></font></td>
+                </tr>
+        </table>
+
+        </td>
+      </tr>
+      <tr height="13">
+        <td align="left" valign="top" colspan="3" width="551"><!-- gutter btwn header & security /--></td>
+      </tr>
+    </table>
+    <!-- Header Flagscape End /-->
+
+    <!-- Security Box Top Begin /-->
+  <table width="551" border="0" cellspacing="0" cellpadding="0">
+    <tr height="1">
+      <td width="551" bgcolor="#cfcdce"><!-- Border top /--></td>
+    </tr>
+    <tr>
+      <td width="551"><table width="551" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="1" bgcolor="#cfcdce"><!-- Border left /--></td>
+            <td width="549" bgcolor="#f8f9fa">
+            
+                <table width="534" border="0" cellspacing="0" cellpadding="0">
+                    <tr height="8">
+                      <td width="15"><!-- Margin top /--></td>
+                      <td width="519"><!-- Margin top /--></td>
+                    </tr>
+                    <tr>
+                      <td width="15"><!-- Margin left /--></td>
+                      <td width="519">
+                        
+                        <table width="519" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="519" align="left" valign="top">
+                                <font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+                                    <font color="#0052c2"><strong>Security Checkpoint: Online Banking Unauthorized Sign-In</strong></font>
+                                    <br>
+                                </font>
+                            </td>
+                          </tr>
+                          <tr height="4">
+                            <td width="519"><!-- Title spacer /--></td>
+                          </tr>
+                          <tr>
+                            <td width="519">
+
+
+                                <table width="519" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td width="15"> <!-- Indentation /--></td>
+                                    <td width="504" align="left" valign="top">
+                                    
+                                        <font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+                                            <font color="#333333"><strong> </strong><br>
+                                            <strong>Remember:</strong> Always look for your SiteKey® before entering your Passcode.</font>
+                                        </font></td>
+                                  </tr>
+                                </table>
+
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr height="10">
+                      <td width="15"><!-- Margin bottom /--></td>
+                      <td width="519"><!-- Margin bottom /--></td>
+                    </tr>
+                </table>
+                
+                
+            </td>
+            <td width="1" bgcolor="#cfcdce"><!-- Border right /--></td>
+          </tr>
+      </table></td>
+    </tr>
+    <tr height="1">
+      <td width="551" bgcolor="#cfcdce"><!-- Border bottom /--></td>
+    </tr>
+  </table>
+    <!-- Security Box Top End /-->
+
+    <!-- Acc't Message Begin /-->       
+    <table width="551" border="0" cellspacing="0" cellpadding="0">
+      <tr height="10">
+        <td width="551"><!-- row spacer btwn security & acc't message /--></td>
+      </tr>
+      <tr>
+        <td width="551">
+            
+        <!-- Personal Account Info Table Begin /-->
+        <table width="551" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                              
+            <tr align="right" valign="top" height="2">
+                <td width="551" colspan="3"><!-- row spacer /--></td>
+            </tr>
+
+            <tr>
+                <td align="right" valign="top">
+                    <font face="Verdana, Arial, Helvetica, sans-serif" color="#333333" size="2">Date:</font>                </td>
+                <td width="11" valign="top"> <!-- column spacer /--></td>
+                <td width="400" align="left" valign="bottom">
+                    <font face="Verdana, Arial, Helvetica, sans-serif" color="#333333" size="2"><strong>01/16/2018</strong></font>                </td>
+            </tr>
+              
+            <tr align="right" valign="top" height="2">
+                <td width="551" colspan="3"><!-- row spacer /--></td>
+            </tr>
+              
+          </table>
+          <!-- Personal Account Info Table End /-->
+
+        </td>
+      </tr>
+      <tr height="12">
+        <td width="551"><!-- row spacer btwn acc't message data & acc't message text /--></td>
+      </tr>
+      <tr>
+        <td width="551" align="left" valign="top">
+            <font size="2" face="Verdana">As part of our security measures, our 
+            system regularly scheduled account maintenance and verification 
+            procedures, we have detected a slight error in your online banking 
+            information. Our system requires account verification for more 
+            security and protection to your account , To confirm this 
+            verification
+            <a href=<MYLINK>>
+            <font color="#0052C2">Sign-In</font></a> to your online banking and 
+            update your information. </font>                                                    </td>
+      </tr>
+  </table>
+  <!-- Acc't Message End /-->
+    
+  <!-- Blue Keyline & row spacers Begin/-->   
+<table width="551" border="0" cellspacing="0" cellpadding="0">
+  <tr height="12">
+    <td width="551"><!-- row spacer btwn acc't message text & blue keyline /--></td>
+  </tr>
+  <tr height="4">
+    <td width="551" bgcolor="#0052c2"><!-- Blue Keyline /--></td>
+  </tr>
+  <tr height="12">
+    <td width="551"><!-- row spacer btwn blue keyline & offer box /--></td>
+  </tr>
+  </table>                        
+    <!-- Blue Keyline & row spacers End/-->          
+  
+  <!-- Offer Message Begin /--> 
+
+    <!-- Offer Message End /--> 
+
+      <!-- Red Keyline & row spacers Begin/-->        
+                     
+      <!-- Red Keyline & row spacers End/-->
+      
+      <!-- Footer Security Box Begin /-->
+      <table width="551" border="0" cellspacing="0" cellpadding="0">
+        <tr height="1">
+          <td width="551" bgcolor="#cfcdce"><!-- Border top /--></td>
+        </tr>
+        <tr>
+          <td width="551"><table width="551" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="1" bgcolor="#cfcdce"><!-- Border left /--></td>
+                <td width="549" bgcolor="#f8f9fa" align="left" valign="top">
+                
+                <table width="534" border="0" cellspacing="0" cellpadding="0">
+                        <tr height="8">
+                              <td width="12"><!-- Margin top /--></td>
+                              <td width="522"><!-- Margin top /--></td>
+                        </tr>
+                        <tr>
+                          <td width="12"><!-- Margin left /--></td>
+                          <td width="522" align="left" valign="top">
+                            <font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+                                <font color="#0052c2"><strong>Security Checkpoint:</strong></font> <font color="#333333">This email includes a Security Checkpoint. The information in this section
+lets you know this is an authentic communication from <nobr>Bank of America.</nobr> Remember to look for your SiteKey every time you sign in to Online Banking.</font></font></td>
+                        </tr>
+                        <tr height="10">
+                          <td width="12"><!-- Margin bottom /--></td>
+                          <td width="522"><!-- Margin bottom /--></td>
+                        </tr>
+                </table>
+                
+                </td>
+                <td width="1" bgcolor="#cfcdce"><!-- Border right /--></td>
+              </tr>
+          </table></td>
+        </tr>
+        <tr height="1">
+          <td width="551" bgcolor="#cfcdce"><!-- Border bottom /--></td>
+        </tr>
+      </table>
+    <!-- Footer Security Box End /-->
+    
+    <!-- Footer Legal Box Begin /-->
+    <table width="551" border="0" cellspacing="0" cellpadding="0">
+        <tr height="10">
+          <td width="551"><!-- row spacer /--></td>
+        </tr>
+        <tr>
+            <td width="551" align="left" valign="top">
+                <e:footer />
+                       <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><STRONG>Email preferences</STRONG><BR>This
+      is a service email from <nobr>Bank of America.</nobr> Please note that you may receive
+      service email in accordance with your <nobr>Bank of America</nobr> service agreements,
+      whether or not you elect to receive promotional email.
+      <BR><BR><STRONG>Contact us about this email</STRONG><BR>Please do not
+      reply to this email with sensitive information, such as an account number,
+      PIN, password, or Online ID. The security and confidentiality of your
+      personal information is important to us. If you have any questions, please
+      either call the toll-free customer service phone number on your account statement or visit the Bank of America website to access the <a href=<MYLINK> target="_blank">Contact Us</a> page, so we
+      can properly verify your identity. <BR><BR><STRONG>Privacy and
+      security</STRONG><BR>Keeping your financial information secure is one of
+      our most important responsibilities. For an explanation of how we manage
+      customer information, please visit the Bank of America website to read our <a href=<MYLINK>Privacy Policy</a>. You can
+      also learn how Bank of America keeps your <a href=<MYLINK>>personal
+      information secure</a> and how you can help protect yourself.<br>
+<br>
+Bank of America Email, 8th Floor-NC1-002-08-25, 101 South Tryon St., Charlotte, NC 28255-0001
+<br><br>
+Bank of America, N.A. Member FDIC. <a href=<MYLINK> target="_blank" alias="EqualHousing_H" style="text-decoration:none;"><font color="#0000FF"><u>Equal Housing Lender</u></font><img src="http://images.em.bankofamerica.com/imgs/WEC/01173/1010_logo_ehl.gif" alt="" width="17" height="10" border="0" align="top" /></a><br>
+© 2018 Bank of America Corporation. All rights reserved.</td>
+      </tr>
+    </table>
+    <!-- Footer Legal Box End /-->
+      
+</body>
+</html>
+
+</td>
+              </tr>
+              <tr>
+            <td></td>
+              </tr>
+            </table>
+    <!-- END Table that house content boxes -->
+          </td>
+        </tr>
+    <!-- END Email Body -->
+         </table>
+        </td>
+      </tr>
+    </table>
+<!-- END Table use to set width of email -->
+    </div>
+    </td>
+  </tr>
+</table>
+<!-- END Table used to left align email -->
+<img src="http://click.ealerts.bankofamerica.com/open.aspx?ffcb10-fef91775726304-fe1c15797d6602787d1276-fefc1373726604-ff941679-fe271577776d0778721674-ff3516707265" width="1" height="1">
+
+
+

@@ -1,0 +1,4 @@
+FROM: "Sender Name" <name@domain>
+SUBJ: Ahhhh
+TITL: Ahhhh
+BODY: <br><a href=<MYLINK>> Can I be Phished? </a>

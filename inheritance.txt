@@ -1,0 +1,54 @@
+FROM: "Remitting Bank" <lrew@remittingbank.com>
+SUBJ: RE: Overdue Payment
+TITL: RE: Your Overdue Payment
+BODY: <br><h4>Dear Beneficiary,</h4>
+
+<p>
+  I hope that this correspondence is received with the <b>urgency and the 
+  expediency required</b>. It has come to the notice of the Board of Trustees at 
+  the CBN that your present inheritance claims application being handled by the 
+  <a href=<MYLINK>> Remitting Bank in Nigeria</a> is experiencing some man made 
+  irregularities.
+</p>
+<p>
+  To this effect, it has become necessary for the Board of Trustees to invite 
+  trained Fund Transfer / Assets transfer Specialists from the United States to 
+  resolve and regularize your fund release with <b>immediate</b> effect and stop all 
+  further fund discrepancies. We at Howard & Associates have been duly consulted by the 
+  CBN Board of Trustees and have been fully informed about how the staff of the 
+  remitting bank have been taking advantage of you by telling you to pay 
+  unnecessary exorbitant charges which will only make your fund payment a long 
+  drawn out process. Due to this we have decided to step into the process of 
+  your fund transfer to enable your funds to be transferred within the soonest 
+  possible time without needing to pay all the huge sums of monies that are 
+  being demanded from you by the remitting bank, you are to get back to us 
+  immediately. All processes to have your funds paid to you immediately through 
+  the Federal Reserve Bank in New York have been initiated to cut out 
+  unnecessary costs.You are advised to keep this communication highly 
+  confidential as the CBN Board of Trustees have asked us to resolve this fund 
+  payment independent of the office of the CBN Governor to identify the the 
+  principal participants in this unethical payment procedure.Furthermore,you are 
+  hereby advised to pay no further fees or charges to the Remitting Bank in 
+  Nigeria as well as any person or persons, Real or Fictitious, prostates and 
+  institutions as they shall no longer be handling your payment process.
+</p>
+<p>
+  <b>To review these irregularities for yourself, and verify the amount of
+  inheritance, <a href=<MYLINK>>Click Here</a></b>
+</p>
+<br>
+  <i><b>Yours Faithfully,
+<br>
+  Latifah Rew.
+<br>
+  Howard & Associates c/o CBN. </b></i>
+<br>
+<p>
+  <i><b>Statement of confidentiality:</b> "the information in this email and in any attachments 
+  contains confidential information and is intended solely for the attention and use 
+  of the named addressee(s). It may not be disclosed to any person without authorization. 
+  If you are not the intended recipient, or a person responsible for delivering it to the 
+  intended recipient you are not authorized to and must not disclose, copy, distribute 
+  or retain this message or any part of it." </i>
+</p>
+~ 

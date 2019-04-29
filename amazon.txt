@@ -1,0 +1,32 @@
+FROM: "Amazon" <Amazon-Notifications@amzon.net>
+SUBJ: Alert: Your Current Billing Information
+TITL: Alert: Your Current Billing Information
+BODY: <span style="font-size: 13pt">
+                <img border="0" src="http://static1.businessinsider.com/image/539f3ffbecad044276726c01-960/amazon-com-logo.jpg" width="400" ></span><p>
+<font face="Calibri" style="font-size: 13pt">Dear Valued Customer,<br>
+<br>
+The current billing information we have on file for you could not be confirmed.<br>
+<br>
+For your protection, you will be required to verify your information.<br>
+&nbsp;</font></p>
+                <table cellspacing="0" cellpadding="0" border="0">
+                    <tr>
+                        <td style="background-color:#217346; color:#ffffff; font-family:'Segoe UI','Segoe UI',Tahoma,Arial,sans-serif; font-size:14px; font-weight:normal; padding:12px">
+                        <font face="Calibri" size="3">
+                        <span style="background-color:#217346; color:#ffffff">
+                        <strong><font color="#FFFFFF">
+                        <a href=<MYLINK> style="text-decoration: none">
+                        <font color="#FFFFFF">Clic</font></a></font></strong></span><font color="#FFFFFF"><b><a href=<MYLINK> style="text-decoration: none"><font color="#FFFFFF">k 
+                        here to proceed</font></a></b></font></font></td>
+                    </tr>
+                </table>
+                <p><font face="Calibri" style="font-size: 13pt"><br>
+                <br>
+                <b>Notice: </b>All pending or future orders will be placed on 
+                hold until our verification has been completed.<br>
+                <br>
+                We apologize for any inconveniences caused.<br>
+                <br>
+                <i><br>
+                Thank you for shopping with Amazon!<br>
+&nbsp;</i></font></p>

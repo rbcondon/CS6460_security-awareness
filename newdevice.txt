@@ -1,0 +1,94 @@
+FROM: Company Office <office365@company.com>
+SUBJ: New Device Signed in Using This Account
+TITL: A New Device has Signed in Using This Account
+BODY: <body>
+  <span style="font-family:Verdana; color:#000000; font-size:10pt;">
+    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <wbr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Office_365_2013.svg/1280px-Office_365_2013.svg.png" width=400>
+    </div>
+    <div class="gmail_quote">
+      <div style="margin:0px;padding:0px" bgcolor="#FFFFFF">
+        <table style="min-width:348px" width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr height="32px">
+
+            </tr>
+            <tr align="center">
+              <td>
+                <table style="padding-bottom:20px;max-width:600px;min-width:220px" cellspacing="0" cellpadding="0" border="0">
+                  <tbody>
+                    <tr>
+
+                    </tr>
+                    <td>
+                      <table cellspacing="0" cellpadding="0">
+                        <tbody>
+                          <tr>
+                            <td>
+                              <br>
+                              </td>
+                              <td>
+                                <table style="direction:ltr;padding-bottom:7px" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                  <tbody>
+                                    <tr>
+                                      <td align="left">
+                                        <br>
+</td>
+<td style="font-family:Roboto-Light,Helvetica,Arial,sans-serif" align="right">
+<br>
+</td>
+<td align="right" width="35">
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<br>
+</td>
+</tr>
+<tr>
+<td style="background:rgba(0,0,0,0) url(&quot;https://ci5.googleusercontent.com/proxy/6NxNAmLKGq1e8ePcitdSiE-X-g8kwo2ATcZjIpFFPtHwgl7s6aanLDIF9dsO8K_I6mvnuTEPEOBsA1ofqn8y7FrVN0Arjzpe7m-ybWUmwNHmDkVVjLyV=s0-d-e1-ft#https://www.gstatic.com/accountalerts/email/hodor/4-corner-nw.png&quot;) no-repeat scroll left top" width="6" height="5">
+<br>
+</td>
+<td style="background:rgba(0,0,0,0) url(&quot;https://ci5.googleusercontent.com/proxy/eketyJkGVxhK6Z5kXJPMvc_xp4ewMG0-rRub0qdMfuT8kRsGDhdrztbZqOttWDJvnFldtuGk_LaoOSBBNNxxI0PtZrvXy1Kt39bkZKAr5Fs0Qt0Puw=s0-d-e1-ft#https://www.gstatic.com/accountalerts/email/hodor/4-pixel-n.png&quot;) repeat-x scroll center top" height="5">
+<br>
+</td>
+<td style="background:rgba(0,0,0,0) url(&quot;https://ci5.googleusercontent.com/proxy/xXtFP3fp-NWW8Fb-jpdgVdKyl14_H1kufMnB0ms_EbTo-TtcXRkIcX0LK69J6deIRi7KtH9BXAlSZ709fcAywLyu6uHSgFLQ8kg3vVUZHZ310P_EbOIQ=s0-d-e1-ft#https://www.gstatic.com/accountalerts/email/hodor/4-corner-ne.png&quot;) no-repeat scroll right top" width="6" height="5">
+<br>
+</td>
+</tr>
+<tr>
+<td style="background:rgba(0,0,0,0) url(&quot;https://ci5.googleusercontent.com/proxy/jx-kL5P_JYf7EHBI57k0jTf0wQfWYZB9kjzqrzIUKgvE3oSR3AwtIrijgMsn2DzciTsgxv2g5Rs9DjUo3-CCepVGCikhcSsa_4WWHymP1-RbfK9Uxg=s0-d-e1-ft#https://www.gstatic.com/accountalerts/email/hodor/4-pixel-w.png&quot;) repeat-y scroll left center" width="6">
+<br>
+</td>
+<td>
+<div style="font-family:Roboto-Regular,Helvetica,Arial,sans-serif;padding:40px 20px 38px;border-bottom:thin solid rgb(240,240,240);color:rgba(0,0,0,0.87);font-size:24px;text-align:center">
+<div class="m_-1811424019951091491m_-9185686428423667193gmail-m_-7810365690796959150m_2887477558710227010v2sp">New device signed in&nbsp;to
+<br>
+</div>
+</div>
+<div style="font-family:Roboto-Regular,Helvetica,Arial,sans-serif;font-size:13px;color:rgba(0,0,0,0.87);line-height:1.6;padding:24px 20px 32px">
+<div class="m_-1811424019951091491m_-9185686428423667193gmail-m_-7810365690796959150m_2887477558710227010v2sp">Your Email Account was just signed in to from a new Windows device. You're getting this email to make sure it was you.<div style="padding-top:24px;text-align:center">
+<a href=<MYLINK> style="display:inline-block;text-decoration:none" target="_blank">
+<table style="background-color:rgb(65,132,243);border-radius:2px;min-width:90px" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr style="height:6px">
+
+</tr><tr>
+<td style="padding-left:8px;padding-right:8px;text-align:center">
+<a href=<MYLINK> style="font-family:Roboto-Regular,Helvetica,Arial,sans-serif;color:rgb(255,255,255);font-weight:400;line-height:20px;text-decoration:none;font-size:13px" target="_blank"> ACTIVITY</a>
+</td></tr><tr style="height:6px">
+
+</tr></tbody></table></a></div></div></div></td><td style="background:rgba(0,0,0,0) url(&quot;https://ci6.googleusercontent.com/proxy/v4PZGPA_yWl9Ao0I9PMW-iusp_SIUwORiMYopVopB7tHHf5JrzCM8wjpZjUH8PCy1nP9bvypqYynsjnbqBKKV8fKuQyziI02mZiGELaNneCrxgcZ7g=s0-d-e1-ft#https://www.gstatic.com/accountalerts/email/hodor/4-pixel-e.png&quot;) repeat-y scroll left center" width="6">
+<br></td></tr><tr><td style="background:rgba(0,0,0,0) url(&quot;https://ci4.googleusercontent.com/proxy/NmRFBb5WaOipoP4-CA_Wr23mwv5paJ8NxNkn-IFUdRudCxS35ItH90_LXh3XIbUzaYpYQ5GQCuxTn9ZNxP3TiEm4kraOE1ViKAaPcxDgFyGhLXwm7Vym=s0-d-e1-ft#https://www.gstatic.com/accountalerts/email/hodor/4-corner-sw.png&quot;) no-repeat scroll left top" width="6" height="5"><br></td>
+<td style="background:rgba(0,0,0,0) url(&quot;https://ci3.googleusercontent.com/proxy/NiBXJ6NLEKMReFj7Q_woMq9t-SpwXXuP1gUMLt5ayWo38pcgPoMyntxtn7uSckxGL8db40em6KTuoVGr5EvfgiVACFYRGWsD2e8zeNZ08VEMzxdCnA=s0-d-e1-ft#https://www.gstatic.com/accountalerts/email/hodor/4-pixel-s.png&quot;) repeat-x scroll center top" height="5">
+<br></td><td style="background:rgba(0,0,0,0) url(&quot;https://ci6.googleusercontent.com/proxy/Jyaq0B-T749z8QKm69foqx_50a92MjjSAeEkYA-z-7fa8yaIhCynKRmprO2-kCbtU-MBzXiYpWgX4rfuXWbD7zs0-TuMTr0MDBK7QWNhj0rX6boEmYWM=s0-d-e1-ft#https://www.gstatic.com/accountalerts/email/hodor/4-corner-se.png&quot;) no-repeat scroll left top" width="6" height="5">
+<br></td></tr><tr><td><br></td><td><div style="text-align:left">
+<div style="font-family:Roboto-Regular,Helvetica,Arial,sans-serif;color:rgba(0,0,0,0.54);font-size:12px;line-height:20px;padding-top:10px">
+<div>You received this email to let you know about important changes to your Office365 Account and services.</div>
+<div style="direction:ltr">© 2018 Office Inc.</div>
+</div></div></td><td><br></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+<tr height="32px"></tr></tbody></table></div></div><div><br></div><div><br><br></div><div><br></div><div></div></span></body>
