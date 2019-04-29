@@ -22,7 +22,7 @@ fd.close()
 
 if __name__ == '__main__':
 
-   redirectURL = "http://localhost/hooked.html?" +testId
+   redirectURL = "http://localhost/hookedSplash.html?" +testId
 
    print "Content-Type: text/html"
    print "Location: %s" % redirectURL
